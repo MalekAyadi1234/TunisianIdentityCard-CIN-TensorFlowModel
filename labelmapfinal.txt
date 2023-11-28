@@ -1,0 +1,14 @@
+flag
+mizen
+id
+person
+last_name
+birth_date
+place
+mother_name
+profession
+issue_date
+code
+qr
+codee
+finger
